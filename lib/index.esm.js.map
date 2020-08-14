@@ -1,0 +1,1 @@
+{"version":3,"file":"index.esm.js","sources":["../src/index.ts"],"sourcesContent":[null],"names":["stringIncludes","str","search","start","RegExp","TypeError","undefined","indexOf"],"mappings":"SACgBA,EACdC,EACAC,EACAC,GAEA,GAAID,aAAkBE,OACpB,MAAMC,UAAU,wCAIlB,YADcC,IAAVH,IAAqBA,EAAQ,IACM,IAAhCF,EAAIM,QAAQL,EAAQC"}
